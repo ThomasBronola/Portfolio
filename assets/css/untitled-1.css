@@ -1,0 +1,81 @@
+@media (min-width: 1100px) {
+  #top {
+    background: url("../../assets/img/white-polo.png") center / contain no-repeat, var(--gray-dark);
+  }
+}
+
+@media (max-width: 1099px) {
+  #top {
+    /*background: var(--gray-dark);*/
+    background: url("../../assets/img/white-polo.png") bottom left/ contain no-repeat, var(--gray-dark);
+  }
+}
+
+@media (max-width: 1099px) {
+  #top {
+    /*background: var(--gray-dark);*/
+    background: url("../../assets/img/white-polo.png") bottom left/ contain no-repeat, var(--gray-dark);
+  }
+}
+
+@media (max-width: 500px) {
+  #top {
+    /*background: var(--gray-dark);*/
+    background: url("../../assets/img/white-polo.png") bottom/ contain no-repeat, var(--gray-dark);
+  }
+}
+
+@media (max-width: 1100px) {
+  #top h1 {
+    font-size: 55px;
+  }
+}
+
+@media (max-width: 1099px) {
+  #top h1 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+  #top h1 {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 500px) {
+  #top p {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  #top hr {
+    margin-top: -34px;
+  }
+}
+
+@media (max-width: 500px) {
+  #top {
+    margin-top: -77px;
+  }
+}
+
+@media (max-width: 500px) {
+  #btn-top {
+    height: 30%;
+    width: 45%;
+    font-size: smaller;
+  }
+}
+
+#pls-refer {
+  margin-bottom: 0;
+  color: rgba(0,0,0,0.7);
+  font-style: italic;
+}
+
+#services {
+  margin-top: -5%;
+}
+
